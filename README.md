@@ -10,3 +10,6 @@ you have to install Maven)
 <b>Launch:</b>
 
 Download the repository and then type <b>*mvn test*</b> in the root of the directory.
+
+e.g how it's works
+https://drive.google.com/file/d/12MV6wuwas5WqDZIFwF_xHAJJXFvYehrH/view?usp=sharing
